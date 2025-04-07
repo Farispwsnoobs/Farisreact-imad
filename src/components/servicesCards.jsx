@@ -4,9 +4,9 @@ function ServicesCards() {
   return (
     <section className="py-16 px-8 bg-white">
       <div className="max-w-screen-xl mx-auto">
-        {/* Grille des services */}
+        
         <div className="grid grid-cols-2 gap-8">
-          {/* Card 1 - Search engine optimization */}
+          
           <div className="p-6 rounded-lg bg-white border border-gray-300 flex flex-col justify-between">
             <div className="flex items-center space-x-4">
               <img src="path_to_icon" alt="SEO" className="h-12 w-12" />
@@ -18,7 +18,7 @@ function ServicesCards() {
             </button>
           </div>
 
-          {/* Card 2 - Pay-per-click advertising */}
+          
           <div className="p-6 rounded-lg bg-green-400 text-white flex flex-col justify-between">
             <div className="flex items-center space-x-4">
               <img src="path_to_icon" alt="PPC" className="h-12 w-12" />
@@ -30,7 +30,7 @@ function ServicesCards() {
             </button>
           </div>
 
-          {/* Card 3 - Email Marketing */}
+          
           <div className="p-6 rounded-lg bg-white border border-gray-300 flex flex-col justify-between">
             <div className="flex items-center space-x-4">
               <img src="path_to_icon" alt="Email Marketing" className="h-12 w-12" />
@@ -42,7 +42,7 @@ function ServicesCards() {
             </button>
           </div>
 
-          {/* Card 4 - Social Media Marketing */}
+          
           <div className="p-6 rounded-lg bg-black text-white flex flex-col justify-between">
             <div className="flex items-center space-x-4">
               <img src="path_to_icon" alt="Social Media" className="h-12 w-12" />
@@ -54,7 +54,7 @@ function ServicesCards() {
             </button>
           </div>
 
-          {/* Card 5 - Content Creation */}
+          
           <div className="p-6 rounded-lg bg-green-400 text-white flex flex-col justify-between">
             <div className="flex items-center space-x-4">
               <img src="path_to_icon" alt="Content Creation" className="h-12 w-12" />
@@ -66,7 +66,7 @@ function ServicesCards() {
             </button>
           </div>
 
-          {/* Card 6 - Analytics and Tracking */}
+          
           <div className="p-6 rounded-lg bg-black text-white flex flex-col justify-between">
             <div className="flex items-center space-x-4">
               <img src="path_to_icon" alt="Analytics" className="h-12 w-12" />
